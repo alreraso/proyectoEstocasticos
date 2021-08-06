@@ -1,0 +1,3 @@
+/home/rene/Proyecto_Estocasticos/reduccion7202/CMakeFiles/rebuild_cache.dir
+/home/rene/Proyecto_Estocasticos/reduccion7202/CMakeFiles/edit_cache.dir
+/home/rene/Proyecto_Estocasticos/reduccion7202/CMakeFiles/reduccion720.dir
